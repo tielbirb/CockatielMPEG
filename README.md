@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="128" alt="CockatielMPEG icon">
+  <img src="icon-512.png" width="128" alt="CockatielMPEG icon">
 </p>
 
 # 🦜 CockatielMPEG

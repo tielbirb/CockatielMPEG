@@ -1,3 +1,4 @@
+![InShot GIF](./InShot_20261002_142918858.gif)
 <p align="center">
   <img src="icon-512.png" width="128" alt="CockatielMPEG icon">
 </p>
